@@ -46,11 +46,11 @@ You do **not** need Python or R installed locally; everything runs inside Docker
 ## Step 1 – Clone the repository
 
 ```bash
-git clone https://github.com/<your-github-username>/titanic-disaster.git
-cd titanic-disaster
+git clone https://github.com/hyejinlee95/titanic_disaster.git
+cd titanic_disaster
 ```
 
-All commands below are run from this top-level `titanic-disaster` folder.
+All commands below are run from this top-level `titanic_disaster` folder.
 
 ## Step 2 – Download the data
 
